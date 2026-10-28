@@ -13,7 +13,7 @@ const PORTFOLIO = {
     name: "Ibnu Nurmauludin",
     shortName: "Ibnu",
     photo: "assets/img/profile.jpg",
-    cv: "assets/img/CV_Ibnu_Nurmauludin.pdf", // ganti dengan link file CV, contoh: "assets/cv-raka.pdf"
+    cv: "assets/img/CV ATS - Ibnu Nurmauludin.pdf", // ganti dengan link file CV, contoh: "assets/cv-raka.pdf"
     location: { id: "Jakarta, Indonesia", en: "Jakarta, Indonesia" },
     email: "ibnu.nurmauludin@gmail.com",
     phone: "+62 896-0175-8669",
